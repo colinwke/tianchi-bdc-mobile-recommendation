@@ -1,0 +1,3 @@
+project=example_project
+table=out_gp_i_v1
+columns=item_id:STRING,ibtc1:BIGINT,ibtc2:BIGINT,ibtc3:BIGINT,ibtc4:BIGINT,ibtoc1:BIGINT,ibtoc2:BIGINT,ibtoc3:BIGINT,ibtoc4:BIGINT,ibta1:DOUBLE,ibta2:DOUBLE,ibta3:DOUBLE,ibta4:DOUBLE,ibr1:DOUBLE,ibr2:DOUBLE,ibr3:DOUBLE

@@ -1,0 +1,3 @@
+project=example_project
+table=in_interaction_subitem_drop1112_reshape_date
+columns=user_id:STRING,item_id:STRING,behavior_type:BIGINT,user_geohash:STRING,item_category:STRING,date:BIGINT,hour:BIGINT

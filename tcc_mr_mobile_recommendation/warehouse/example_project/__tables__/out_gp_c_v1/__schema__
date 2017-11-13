@@ -1,0 +1,3 @@
+project=example_project
+table=out_gp_c_v1
+columns=item_category:STRING,cbtc1:BIGINT,cbtc2:BIGINT,cbtc3:BIGINT,cbtc4:BIGINT,cbtoc1:BIGINT,cbtoc2:BIGINT,cbtoc3:BIGINT,cbtoc4:BIGINT,cbta1:DOUBLE,cbta2:DOUBLE,cbta3:DOUBLE,cbta4:DOUBLE,cbr1:DOUBLE,cbr2:DOUBLE,cbr3:DOUBLE

@@ -1,0 +1,3 @@
+project=example_project
+table=out_gp_ui_v1
+columns=user_id:STRING,item_id:STRING,uibtac1:BIGINT,uibtac2:BIGINT,uibtac3:BIGINT,uibtac4:BIGINT,uibtoc1:BIGINT,uibtoc2:BIGINT,uibtoc3:BIGINT,uibtoc4:BIGINT,lbt:BIGINT,lhour:BIGINT
